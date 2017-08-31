@@ -1,5 +1,7 @@
 # Ruby client for Legacy XML-RPC Infusionsoft Api
 
+[![Gem Version](https://badge.fury.io/rb/legacy_infusionsoft_api.svg)](https://badge.fury.io/rb/legacy_infusionsoft_api)
+
 <a href="https://app.codesponsor.io/link/Z24Ypyn8iC1Q4i6uCwNyLW3r/cavneb/legacy_infusionsoft_api" rel="nofollow"><img src="https://app.codesponsor.io/embed/Z24Ypyn8iC1Q4i6uCwNyLW3r/cavneb/legacy_infusionsoft_api.svg" style="width: 888px; height: 68px;" alt="Sponsor" /></a>
 
 [Legacy Infusionsoft Api](https://github.com/cavneb/legacy_infusionsoft_api) is an interface for accessing [Infusionsoft's](http://help.infusionsoft.com/developers/api-basics) API.
