@@ -1,5 +1,7 @@
 # Ruby client for Legacy XML-RPC Infusionsoft Api
 
+<a href="https://app.codesponsor.io/link/Z24Ypyn8iC1Q4i6uCwNyLW3r/cavneb/legacy_infusionsoft_api" rel="nofollow"><img src="https://app.codesponsor.io/embed/Z24Ypyn8iC1Q4i6uCwNyLW3r/cavneb/legacy_infusionsoft_api.svg" style="width: 888px; height: 68px;" alt="Sponsor" /></a>
+
 [Legacy Infusionsoft Api](https://github.com/cavneb/legacy_infusionsoft_api) is an interface for accessing [Infusionsoft's](http://help.infusionsoft.com/developers/api-basics) API.
 
 It's based on the [MYOB Api](https://github.com/davidlumley/myob-api) gem and the [Infusionsoft API](https://github.com/davidlumley/infusionsoft-api) gem.
