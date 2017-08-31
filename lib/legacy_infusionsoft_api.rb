@@ -1,0 +1,8 @@
+require "legacy_infusionsoft_api/version"
+require "legacy_infusionsoft_api/helpers"
+require "legacy_infusionsoft_api/models/base"
+require "legacy_infusionsoft_api/models/contact"
+require "legacy_infusionsoft_api/models/contact_group"
+require "legacy_infusionsoft_api/models/contact_group_assign"
+require "legacy_infusionsoft_api/models/contact_group_category"
+require "legacy_infusionsoft_api/client"
