@@ -19,8 +19,12 @@ module LegacyInfusionsoftApi::Model
       true
     end
 
+    def load(id)
+      @client.connection.call("DataService.load", @client.api_key, self.table_name, id, self.fields)
+    end
+
     def first(query = {})
-      self.all(query, false)[0]
+      self.all(query, false, 1)[0]
     end
 
     def create(data = {})

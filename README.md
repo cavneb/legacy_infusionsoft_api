@@ -83,6 +83,17 @@ Or by passing a query
       :FirstName => 'Trevor',
     })
 
+####  Contact Actions
+
+Add a note to a contact
+
+    api_client.contact_action.create({
+      "ContactId" => 1234,
+      "CompletionDate" => Time.now.utc.strftime("%F\T%T"),
+      "ActionDescription" => "My Note Title",
+      "CreationNotes" => "My note body"
+    })
+
 ####  Contact Groups
 
 Return a list of all contact groups

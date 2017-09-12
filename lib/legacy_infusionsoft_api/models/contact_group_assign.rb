@@ -24,8 +24,10 @@ module LegacyInfusionsoftApi::Model
         @client.connection.call("ContactService.removeFromGroup", @client.api_key, query[:ContactId], query[:GroupId])
       else
         self.all(query).each do |data|
-          self.delete(            ContactId: data["Id"],
-            GroupId: data["GroupId"])
+          self.delete(
+            ContactId: data["Id"],
+            GroupId: data["GroupId"]
+          )
         end
       end
     end

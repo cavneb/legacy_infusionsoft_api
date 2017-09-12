@@ -8,6 +8,7 @@ module LegacyInfusionsoftApi
 
     def initialize(options)
       model :Contact
+      model :ContactAction
       model :ContactGroup
       model :ContactGroupAssign
       model :ContactGroupCategory
