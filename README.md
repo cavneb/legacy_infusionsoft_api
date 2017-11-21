@@ -146,7 +146,7 @@ The gem is available as open source under the terms of the [MIT License](http://
 
 ## Code Sponsors
 
-Become a code sponsor and get your logo on our README on Github with a link to your site. [[Become a sponsor](https://codesponsor.io)]
+Become a code sponsor and get your logo on our README with a link to your site. [[Become a code sponsor](https://codesponsor.io)]
 
 <a href="https://app.codesponsor.io/_____/sponsor/0/website" target="_blank"><img src="https://codesponsor.io/logos/rollbar.png" height="80"></a>
 <a href="https://opencollective.com/_____/sponsor/1/website" target="_blank"><img src="https://codesponsor.io/logos/webstorm.png" height="80"></a>
