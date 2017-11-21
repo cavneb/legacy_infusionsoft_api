@@ -144,6 +144,17 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/cavneb
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
+## Sponsors
+
+Become a sponsor and get your logo on our README on Github with a link to your site. [[Become a sponsor](https://codesponsor.io)]
+
+<a href="https://app.codesponsor.io/_____/sponsor/0/website" target="_blank"><img src="https://opencollective.com/_____/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/_____/sponsor/1/website" target="_blank"><img src="https://opencollective.com/_____/sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/_____/sponsor/2/website" target="_blank"><img src="https://opencollective.com/_____/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/_____/sponsor/3/website" target="_blank"><img src="https://opencollective.com/_____/sponsor/3/avatar.svg"></a>
+<a href="https://opencollective.com/_____/sponsor/4/website" target="_blank"><img src="https://opencollective.com/_____/sponsor/4/avatar.svg"></a>
+
+
 ## Code of Conduct
 
 Everyone interacting in the LegacyInfusionsoftApi project’s codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/cavneb/legacy_infusionsoft_api/blob/master/CODE_OF_CONDUCT.md).
