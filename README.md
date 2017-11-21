@@ -148,11 +148,10 @@ The gem is available as open source under the terms of the [MIT License](http://
 
 Become a code sponsor and get your logo on our README on Github with a link to your site. [[Become a sponsor](https://codesponsor.io)]
 
-<a href="https://app.codesponsor.io/_____/sponsor/0/website" target="_blank"><img src="https://opencollective.com/_____/sponsor/0/avatar.svg"></a>
-<a href="https://opencollective.com/_____/sponsor/1/website" target="_blank"><img src="https://opencollective.com/_____/sponsor/1/avatar.svg"></a>
-<a href="https://opencollective.com/_____/sponsor/2/website" target="_blank"><img src="https://opencollective.com/_____/sponsor/2/avatar.svg"></a>
-<a href="https://opencollective.com/_____/sponsor/3/website" target="_blank"><img src="https://opencollective.com/_____/sponsor/3/avatar.svg"></a>
-<a href="https://opencollective.com/_____/sponsor/4/website" target="_blank"><img src="https://opencollective.com/_____/sponsor/4/avatar.svg"></a>
+<a href="https://app.codesponsor.io/_____/sponsor/0/website" target="_blank"><img src="https://codesponsor.io/logos/rollbar.png" height="80"></a>
+<a href="https://opencollective.com/_____/sponsor/1/website" target="_blank"><img src="https://codesponsor.io/logos/webstorm.png" height="80"></a>
+<a href="https://opencollective.com/_____/sponsor/2/website" target="_blank"><img src="https://codesponsor.io/logos/pusher.png" height="80"></a>
+<a href="https://opencollective.com/_____/sponsor/3/website" target="_blank"><img src="https://codesponsor.io/logos/stickermule.png" height="80"></a>
 
 
 ## Code of Conduct
