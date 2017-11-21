@@ -144,9 +144,9 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/cavneb
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
-## Sponsors
+## Code Sponsors
 
-Become a sponsor and get your logo on our README on Github with a link to your site. [[Become a sponsor](https://codesponsor.io)]
+Become a code sponsor and get your logo on our README on Github with a link to your site. [[Become a sponsor](https://codesponsor.io)]
 
 <a href="https://app.codesponsor.io/_____/sponsor/0/website" target="_blank"><img src="https://opencollective.com/_____/sponsor/0/avatar.svg"></a>
 <a href="https://opencollective.com/_____/sponsor/1/website" target="_blank"><img src="https://opencollective.com/_____/sponsor/1/avatar.svg"></a>
